@@ -14,7 +14,7 @@ Please go to the [Course_Notebooks](Course_Notebooks/) folder and enter the note
 
 The course is entirely done through Python Notebooks, which allow to explain the mathematical and statistical theory behind each aspect with a code example. The structure of the course is mostly based on *Elements of Statistical Learning* by *Hastie, Tibshirani* and *Friedman*, and will be structured as follows:
 
-1) We will first do a refresher in multivariate statistics, and then we will introduce some important concepts of statistical learning theory, which will be lightened for all interestedd people to understand the mathematics.
+1) We will first do a refresher in multivariate statistics, and then we will introduce some important concepts of statistical learning theory. Notebooks: [1](Course_Notebooks/1_Stats_Refresher.ipynb) and [2](Course_Notebooks/2_StatLearn_Theory.ipynb).
 
 2) Then, we will start by looking at the most basic but useful models in practice: linear models. This will allow us to introduce the regression problem with a little bit more depth and look at interesting features of these models and also useful variants of the most basic ones.
 
