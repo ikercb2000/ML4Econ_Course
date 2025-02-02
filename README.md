@@ -8,7 +8,7 @@ This very short course is designed to give an introduction to statistical learni
 
 ### Instructions
 
-Please go to the [Course_Notebooks](Course_Notebooks/) folder and enter the notebooks in order.
+Please go to the [Course_Notebooks](Course_Notebooks/) folder and enter the notebooks in order. For the slides with the theory, please go to this [file](Course_PPT_Week1.pdf).
 
 ### Structure
 
